@@ -1,0 +1,5 @@
+*.csv
+*.pkl
+*.png
+__pycache__/
+.env
