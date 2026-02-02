@@ -4,7 +4,7 @@ End-to-end customer churn prediction using machine learning with a Streamlit das
 
 Customer Churn Prediction & Retention Analysis
 
-📌 Project Overview
+**📌 Project Overview**
 
 Customer churn directly impacts business revenue.
 This project focuses on predicting customers who are likely to churn using machine learning, with a strong emphasis on high recall to minimize missed churners.
@@ -52,6 +52,7 @@ Data preprocessing and feature scaling
 Model training using supervised learning algorithms
 
 **Model evaluation using:**
+
 Recall
 
 Precision
@@ -72,7 +73,7 @@ Random Forest
 
 The final model was selected based on business-relevant metrics, not just accuracy.
 
-📈 Feature Importance
+**📈 Feature Importance**
 
 Feature importance was analyzed to:
 Understand key drivers of churn
@@ -81,7 +82,7 @@ Provide interpretability for business stakeholders
 
 Support retention strategy design
 
-🖥️ Streamlit Dashboard
+**🖥️ Streamlit Dashboard**
 
 The Streamlit application allows users to:
 Upload customer data
@@ -94,7 +95,7 @@ Explore confusion matrix and recall-focused metrics
 
 Understand model behavior through visualizations
 
-💰 Business Insight
+**💰 Business Insight**
 
 Missing a churner (False Negative) is more costly than targeting a non-churner (False Positive)
 
@@ -102,7 +103,7 @@ Model decisions are aligned with campaign cost vs customer value
 
 High recall ensures better retention coverage, even at the cost of lower precision
 
-🛠️ Tech Stack
+**🛠️** Tech Stack****
 
 Python
 
