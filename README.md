@@ -115,7 +115,7 @@ Matplotlib / Seaborn
 
 Streamlit
 
-📌 Results
+**📌 Results**
 
 Achieved high recall for churn detection
 
@@ -123,7 +123,7 @@ Improved business interpretability through dashboard-based insights
 
 Demonstrated end-to-end ML deployment skills
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
 Cost-sensitive learning using custom loss functions
 
