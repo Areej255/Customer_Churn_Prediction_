@@ -11,7 +11,7 @@ This project focuses on predicting customers who are likely to churn using machi
 A Streamlit dashboard is built to make predictions interpretable and actionable from a business perspective.
 This is an end-to-end project covering data preprocessing, model training, evaluation, and deployment with Python >= 3.10.
 
-🎯 Business Objective
+**🎯 Business Objective**
 
 Identify customers at high risk of churn
 
