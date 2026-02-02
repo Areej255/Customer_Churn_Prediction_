@@ -51,7 +51,7 @@ Data preprocessing and feature scaling
 
 Model training using supervised learning algorithms
 
-Model evaluation using:
+**Model evaluation using:**
 Recall
 
 Precision
@@ -64,7 +64,7 @@ Threshold tuning to improve churn detection
 
 Feature importance analysis
 
-Models Used
+**Models Used**
 
 Logistic Regression
 
@@ -134,7 +134,7 @@ Model monitoring and drift detection
 
 📬 Contact
 
-Areeg Naeem
+Areej Naeem
 Bachelor’s in Software Engineering
 
 Aspiring Data Scientist / Machine Learning Engr.
