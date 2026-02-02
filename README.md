@@ -103,7 +103,7 @@ Model decisions are aligned with campaign cost vs customer value
 
 High recall ensures better retention coverage, even at the cost of lower precision
 
-**🛠️** Tech Stack****
+**🛠️ Tech Stack**
 
 Python
 
