@@ -21,7 +21,7 @@ Support retention campaigns while considering campaign and retention costs
 
 Enable non-technical users to interact with model outputs via a dashboard
 
-🧠 Key Concepts Applied
+**🧠 Key Concepts Applied**
 
 Churn prediction as a cost-sensitive classification problem
 
@@ -31,7 +31,7 @@ Retention cost and campaign cost awareness
 
 Threshold-based decision making
 
-📊 Dataset
+**📊 Dataset**
 
 Structured customer-level dataset containing behavioral, demographic, and service usage features
 Target variable: Churn (Yes / No)
